@@ -7,5 +7,5 @@
 @stop
 
 @section('content')
-<h1>Hello Radiate!</h1>
+<h1>Welcome to the Test!</h1>
 @stop
